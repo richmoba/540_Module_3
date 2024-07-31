@@ -15,18 +15,31 @@ This project implements a movie recommendation system using both classical machi
 
 ## Project Structure
 ├── README.md               <- The top-level README for developers using this project
+
 ├── requirements.txt        <- The requirements file for reproducing the analysis environment
+
 ├── setup.py                <- Script to set up project (process data, train models)
+
 ├── main.py                 <- Main script to run the Streamlit interface
+
 ├── scripts/                <- Source code for use in this project
+
 │   ├── build_features.py   <- Script to turn raw data into features for modeling
+
 │   └── model.py            <- Scripts to train models and then use trained models to make predictions
+
 ├── models/                 <- Trained and serialized models
+
 ├── data/                   <- Project data
+
 │   ├── movies.csv          <- The movies dataset
+
 │   ├── ratings.csv         <- The ratings dataset
+
 │   └── processed/          <- The final, canonical data sets for modeling
+
 └── .gitignore              <- List of files ignored by git
+
 ## Setup
 
 1. Clone this repository:
