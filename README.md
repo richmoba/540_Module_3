@@ -30,7 +30,7 @@ This project implements a movie recommendation system using both classical machi
 ## Setup
 
 1. Clone this repository:
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/richmoba/540_Module_3.git
 cd movie-recommendation-system
 
 2. Create a virtual environment (optional but recommended):
